@@ -1,3 +1,7 @@
+v1.8.1 (2025-9-29)
++ Added troubleshooting documentation
++ fixed ggplot2 4.0.0 compatibility issues
+
 v1.4.0
 + Compatibility with updated labworksheet
 + IPA compatibility 
